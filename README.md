@@ -20,8 +20,6 @@
 
 [![Rizky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kikiabdilah&theme=github-compact)](https://github.com/kikiabdilah)
 
-![Snake animation](https://raw.githubusercontent.com/Kikiabdilah/Kikiabdilah/output/snake.svg)
-
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
