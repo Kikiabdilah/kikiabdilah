@@ -15,7 +15,6 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: Kikiabdilah
-          outputs: dist/snake.svg
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
