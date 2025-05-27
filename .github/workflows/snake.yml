@@ -14,7 +14,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: kikiabdilah
+          github_user_name: Kikiabdilah
           outputs: dist/snake.svg
 
       - name: push snake.svg to the output branch
