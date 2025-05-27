@@ -11,11 +11,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: kikiabdilah
-          outputs: dist/snake.svg
+          github_user_name: Kikiabdilah
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
