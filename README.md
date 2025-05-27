@@ -20,7 +20,7 @@
 
 [![Rizky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kikiabdilah&theme=github-compact)](https://github.com/kikiabdilah)
 
-![Snake animation](https://raw.githubusercontent.com/kikiabdilah/kikiabdilah/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Kikiabdilah/Kikiabdilah/output/snake.svg)
 
 ## 🛠️ Tech Stack
 
