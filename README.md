@@ -18,8 +18,6 @@
 ![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikiabdilah&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikiabdilah&layout=compact&theme=radical)
 
-[![Rizky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kikiabdilah&theme=github-compact)](https://github.com/kikiabdilah)
-
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
